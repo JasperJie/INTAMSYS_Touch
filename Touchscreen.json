@@ -73,6 +73,14 @@
         "value": "none",
         "type": "textDecoration"
       }
+    },
+    "black": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "red": {
+      "value": "#d11919",
+      "type": "color"
     }
   },
   "$themes": []
