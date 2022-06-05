@@ -4,6 +4,10 @@
       "01": {
         "value": "#0091ff",
         "type": "color"
+      },
+      "02": {
+        "value": "#cc1c6a",
+        "type": "color"
       }
     },
     "fontFamilies": {
